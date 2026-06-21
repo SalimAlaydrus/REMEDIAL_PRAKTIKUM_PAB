@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "324175187788",
+    "project_id": "remed-pab-5b6ae",
+    "storage_bucket": "remed-pab-5b6ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324175187788:android:00b2e39fe91074138bc9e9",
+        "android_client_info": {
+          "package_name": "com.example.tugasremidi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkqS9ojKr4XeIYpXTgw5g8VfJhSM6nusQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
